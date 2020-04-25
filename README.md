@@ -1,8 +1,8 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
 <h3 align="center">
   Desafio 06: GoFinances Web
 </h3>
+
+![](challenge-demo.gif)
 
 ## 🚀 Sobre o desafio
 
